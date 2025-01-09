@@ -2,7 +2,7 @@ roleName,projectId,personId,amount,startDate,endDate
 Project Manager,1,1,100,2024-01-01,2024-12-31
 Data Analyst,2,2,150,2024-02-01,2024-11-30
 Consultant,3,3,200,2024-03-01,2024-10-31
-Project Manager,4,4,120,2024-01-15,2024-12-31
+Project Manager,3,4,120,2024-01-15,2024-12-31
 Data Analyst,5,5,130,2024-02-01,2024-12-31
 Engineer,6,6,180,2024-04-01,2024-09-30
 Consultant,7,7,160,2024-01-01,2024-08-31
