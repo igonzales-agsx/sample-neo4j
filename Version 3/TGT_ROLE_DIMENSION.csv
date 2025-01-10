@@ -1,0 +1,6 @@
+roleId,roleName,engagementType,contractType
+1,Project Manager,Full-time,Permanent
+2,Developer,Contract,Temporary
+3,Business Analyst,Full-time,Permanent
+4,Tester,Contract,Temporary
+5,Designer,Full-time,Permanent
